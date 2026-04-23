@@ -1,5 +1,5 @@
 # TUSIIME MUKAMA MARVIN 👋
-
+<img src="SOFT.jpg" width="150" height="150" align="right" style="border-radius: 50%;">
 ### 🎓 Education
 **Kyambogo University** *Bachelor of Information Technology and Computing (Expected)* 2024 — Present  
 
